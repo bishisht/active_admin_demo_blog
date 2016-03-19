@@ -8,3 +8,4 @@ group :assets do
 end
 gem 'jquery-rails'
 gem 'activeadmin'
+gem 'best_in_place', github: 'bernat/best_in_place'

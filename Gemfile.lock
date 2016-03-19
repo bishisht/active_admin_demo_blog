@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/bernat/best_in_place.git
+  revision: 1ea07d3f362d63a938eb3b8f2c6c0f2037f86f0f
+  specs:
+    best_in_place (3.0.3)
+      actionpack (>= 3.2)
+      railties (>= 3.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -153,6 +161,7 @@ PLATFORMS
 
 DEPENDENCIES
   activeadmin
+  best_in_place!
   coffee-rails (~> 3.2.1)
   jquery-rails
   rails (= 3.2.19)
